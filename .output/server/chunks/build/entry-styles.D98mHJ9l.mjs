@@ -1,0 +1,6 @@
+const styles = "body{align-items:center;background:#f6f6f6;color:#661675;display:flex;font-family:Segoe UI,Tahoma,Verdana,sans-serif;height:100vh;justify-content:center;margin:0;padding:0}.container{background:#cda8d4;border-radius:8px;box-shadow:0 4px 8px #0000001a;max-width:350px;padding:18px;width:90%}h1{color:#661675;text-align:center}.task-input{display:flex;gap:8px}input{border:1px solid #b2adb2;border-radius:4px;flex:1;padding:16px}button{background:#5f42a8;border:none;border-radius:4px;color:#f6f6f6;cursor:pointer;margin:0 4px;padding:10px 15px}button:hover{background:#361d76}.task-list{list-style:none;padding:0}.task-item{align-items:center;border-bottom:1px solid #b2adb2;display:flex;justify-content:space-between;padding:10px}.task-actions{display:flex;gap:8px}.completed{color:#777;text-decoration:line-through}.sr-only{height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;clip:rect(0,0,0,0);border:0}@media (max-width:767px){.container{padding:16px;width:100%}.task-input{flex-direction:column}input{box-sizing:border-box;width:100%}}";
+
+const entryStyles_D98mHJ9l = [styles];
+
+export { entryStyles_D98mHJ9l as default };
+//# sourceMappingURL=entry-styles.D98mHJ9l.mjs.map
