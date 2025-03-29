@@ -1,0 +1,3 @@
+[submodule "nuxt-app"]
+	path = nuxt-app
+	url = https://github.com/Etana87/Mod7-CloudLab
